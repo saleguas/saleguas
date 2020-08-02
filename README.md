@@ -1,4 +1,4 @@
-### Hi, I'm sal - aka [saleguas][website] 👋
+### 👋 Hi, I'm sal - aka [saleguas][website] 👋
 
 ## I'm a student, developer, and writer!
 - 🔭 I’m currently working on quantitative trading!
@@ -37,6 +37,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[![Salvador's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saleguas)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://aleguas.dev
 [githubpage]: https://github.com/saleguas
