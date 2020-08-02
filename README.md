@@ -7,7 +7,7 @@
 - 🥅 2020 Goals: I appreciate all feedback!
 - ⚡ Fun fact: I love worldbuilding!
 
-### Connect with me:
+### 📱 Connect with me 📱: 
 
 [<img align="left" alt="aleguas.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="SALEGUAS | Gmail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][email]
@@ -15,7 +15,7 @@
 
 <br />
 
-### Languages and Tools:
+### 📙 Languages and Tools 🔨:
 
 [<img align="left" alt="Flask" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][website]
@@ -33,7 +33,7 @@
 <br />
 <br />
 
-### Latest Medium Articles
+### 📰 Latest Medium Articles 📰
 
 <!-- BLOG-POST-LIST:START -->
 - [How to use the easiest GUI of your life in Python](https://codeburst.io/how-to-use-the-easiest-gui-of-your-life-in-python-d3762270a2a0?source=rss-32537f17b049------2)
