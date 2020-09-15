@@ -36,11 +36,11 @@
 ### 📰 Latest Medium Articles 📰
 
 <!-- BLOG-POST-LIST:START -->
-- [Why you might want TikTok banned](https://medium.com/@salvadoraleguas/why-you-might-want-tiktok-banned-9b1017ec6f03?source=rss-32537f17b049------2)
 - [How to use the easiest GUI of your life in Python](https://codeburst.io/how-to-use-the-easiest-gui-of-your-life-in-python-d3762270a2a0?source=rss-32537f17b049------2)
 - [Create your own free live CV in 10 Minutes](https://codeburst.io/create-your-own-free-live-cv-in-10-minutes-d1c2842c85bd?source=rss-32537f17b049------2)
 - [I Changed the Value of 1](https://levelup.gitconnected.com/i-changed-the-value-of-1-eb3a90529648?source=rss-32537f17b049------2)
 - [The Unseen Pitfalls of Python](https://codeburst.io/the-unseen-pitfalls-of-python-7ca57f021d08?source=rss-32537f17b049------2)
+- [Unearthing the Original Native GUI](https://codeburst.io/unearthing-the-original-native-gui-5874ea2661a2?source=rss-32537f17b049------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
