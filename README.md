@@ -1,11 +1,10 @@
 ### 👋 Hi, I'm sal - aka [saleguas][website] 👋
 
 ## I'm a student, developer, and writer!
-- 🔭 I’m currently working on quantitative trading!
-- 🌱 I’m currently learning FOREX!
+- 🌱 I’m currently learning Machine Learning!
 - 👯 I’m looking to collaborate with other content creators!
-- 🥅 2020 Goals: I appreciate all feedback!
-- ⚡ Fun fact: I love worldbuilding!
+- 🥅 2021 Goals: Work on some awesome projects :)
+- ⚡ Fun fact: I play video games professionally!
 
 ### 📱 Connect with me 📱: 
 
