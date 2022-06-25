@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Machine Learning!
 - 👯 I’m looking to collaborate with other content creators!
 - 🥅 2022 Goals: Hit 1000 stars on GitHub!
-- ⚡ Fun fact: I play video games professionally!
+- ⚡ Fun fact: I'm a video game modder!
 
 ### 📱 Connect with me 📱: 
 
