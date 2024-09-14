@@ -1,4 +1,4 @@
-### 👋 Hi, I'm sal - aka [saleguas][website] 👋
+### 👋 Hi, I'm sal 👋
 
 ### 📱 Connect with me 📱: 
 
